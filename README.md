@@ -1,14 +1,14 @@
 # AAP_1B_2024
 # Obsah
-- [Základní pojmy](#[základní-pojmy]()
-  - [Algoritmus - definice](#zakladni-pojmy)
+- [Základní pojmy](#základní-pojmy)
+  - [Algoritmus-definice](#algoritmus--definice)
   - [Vlastnosti algoritmu](#vlastnosti-algoritmu)
-  - [Způsoby zápisu algoritmů](d#zp%C5%AFsoby-z%C3%A1pisu-algoritm%C5%AF)
-  - [Flowgorithm]()
-- [Proměnné]()
-  - [Datové typy]()
-  - [Rozdíl zápisu textu a proměnné]()
-  - [Spojování Textových řetězců]()
+  - [Způsoby zápisu algoritmů](#zp%C5%AFsoby-z%C3%A1pisu-algoritm%C5%AF)
+  - [Flowgorithm](#flowgorithm)
+- [Proměnné](#prom%C4%9Bnn%C3%A9)
+  - [Datové typy](#datov%C3%A9-typy)
+  - [Rozdíl zápisu textu a proměnné](#rozd%C3%ADl-z%C3%A1pisu-textu-a-prom%C4%9Bnn%C3%A9)
+  - [Spojování Textových řetězců](#spojov%C3%A1n%C3%AD-textov%C3%BDch-%C5%99et%C4%9Bzc%C5%AF)
 
 # Základní pojmy
 ## Algoritmus – definice
