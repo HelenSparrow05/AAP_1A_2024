@@ -1,5 +1,16 @@
-﻿# AAP_1B_2024
+# AAP_1B_2024
+# Obsah
+- [Základní pojmy](#[základní-pojmy]()
+  - [Algoritmus - definice](#zakladni-pojmy)
+  - [Vlastnosti algoritmu](#vlastnosti-algoritmu)
+  - [Způsoby zápisu algoritmů](d#zp%C5%AFsoby-z%C3%A1pisu-algoritm%C5%AF)
+  - [Flowgorithm]()
+- [Proměnné]()
+  - [Datové typy]()
+  - [Rozdíl zápisu textu a proměnné]()
+  - [Spojování Textových řetězců]()
 
+# Základní pojmy
 ## Algoritmus – definice
 * Algoritmus je přesně definovaná posloupnost kroků nebo procedur, které řeší určitý 
 problém nebo vypočítávají určitý výsledek
@@ -27,3 +38,13 @@ jazyka
 snadno pochopit a převést na zdrojový kód v konkrétním jazyce
 
 ![image](https://github.com/user-attachments/assets/d2d120ba-786f-482e-bf0d-4d37259fadd3)
+
+## Flowgorithm
+
+# Proměnné
+## Datové typy
+## Rozdíl zápisu textu a proměnné
+## Spojování Textových řetězců
+> [!TIP]
+> Pokud se vám nezobrazují mezery ve větě mezi jednotlivými částmi věty (viz obrázek 1), přidejte přidejte mezeru buď do textu samotného nebo pokud je mezera potřeba mezi proměnnými přidejte nový textový řetězec mezi a jen doplňte mezeru " "
+##
