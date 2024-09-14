@@ -1,4 +1,3 @@
-# AAP_1A_2024
 # Obsah
 - [Základní pojmy](#základní-pojmy)
   - [Algoritmus-definice](#algoritmus--definice)
