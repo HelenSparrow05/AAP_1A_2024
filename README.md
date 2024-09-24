@@ -15,16 +15,7 @@
 - [Podmínka](#podm%C3%ADnka)
   - [Rozdíl mezi přiřazením a porovnáním](#rozd%C3%ADl-mezi-p%C5%99i%C5%99azen%C3%ADm-a-porovn%C3%A1n%C3%ADm)
   - [Vnořená podmínka](#vno%C5%99en%C3%A1-podm%C3%ADnka)
-- [Výroková logika](#v%C3%BDrokov%C3%A1-logika-and-or-not)
-  - [AND](#and)
-  - [OR](#or)
-  - [NOT](#not)
-- [Boolean](#boolean)
-- [Pole](#pole)
-- [Cykly](#cykly)
-  - [While](#while)
-  - [For](#for)
-  - [Do while](#do-while)
+
 
 # Základní pojmy
 ## Algoritmus – definice
