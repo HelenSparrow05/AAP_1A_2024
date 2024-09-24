@@ -223,29 +223,4 @@ Ve Flowgorithm je to tato značka.
 ![image](https://github.com/user-attachments/assets/9f6155be-9c01-4fef-a35e-252e899c0678)
 
 
-# Výroková logika AND OR NOT
-* Výrok je tvrzení které lze jednoznačně vyhodnotit jako true/false
-* Příklad: Venku prší.
-* Hodnota true – 1
-* Hodnota False – 0
-## AND
-* značka &&
-* vrací true pokud jsou oba výroky pravdivé
-## OR
-* značka ||
-* vrací true pokud je pravdivý alespoň jeden
-## NOT
-* značka !
-* obrátí každý výrok na výrok opačný
-* !true = false
-# Boolean
-* Datový typ do kterého můžeme ukládat hodnotu true a false
-
-# Pole
-
-# Cykly
-## While
-## For
-## Do while
-
 
